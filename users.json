@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "Aarav Sharma",
+      "age": 21,
+      "phno": "9876543210",
+      "country": "India"
+    },
+    {
+      "name": "Emma Johnson",
+      "age": 25,
+      "phno": "9823456712",
+      "country": "USA"
+    },
+    {
+      "name": "Liam Brown",
+      "age": 24,
+      "phno": "9812345678",
+      "country": "UK"
+    },
+    {
+      "name": "Olivia Davis",
+      "age": 22,
+      "phno": "9988776655",
+      "country": "Canada"
+    },
+    {
+      "name": "Noah Miller",
+      "age": 23,
+      "phno": "9123456789",
+      "country": "Australia"
+    },
+    {
+      "name": "Sophia Wilson",
+      "age": 20,
+      "phno": "9765432189",
+      "country": "Germany"
+    },
+    {
+      "name": "Mason Taylor",
+      "age": 26,
+      "phno": "9632587410",
+      "country": "France"
+    },
+    {
+      "name": "Isabella Thomas",
+      "age": 21,
+      "phno": "9541236789",
+      "country": "Italy"
+    },
+    {
+      "name": "Lucas Anderson",
+      "age": 27,
+      "phno": "9456123789",
+      "country": "Spain"
+    },
+    {
+      "name": "Mia Martinez",
+      "age": 22,
+      "phno": "9345127890",
+      "country": "Brazil"
+    }
+  ]
+}
